@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+## Name: HARI PRASATH E
+## Reg No: 25007799
+# Date: 24-09-2025
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,76 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+The proposed solution is a **Smart Crop Advisory System** that helps farmers make better decisions using digital tools.  
+It brings together crop advisory, soil and weather analysis, pest detection, and market insights into one platform.
+
+- Provides **personalized crop guidance** using soil data and weather updates.  
+- Helps address common issues faced by farmers such as unpredictable weather, pest attacks, and unstable market prices.  
+- **Unique feature**: combines AI-driven pest detection with multilingual support, making it farmer-friendly and easy to use.  
+- Ensures that even rural farmers with limited digital literacy can benefit from the service via mobile apps and USSD.  
+
+---
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+The system uses a modular design with different services connected through an API Gateway.
 
+- **Technologies**  
+  - Backend: Python (Django/Flask)  
+  - Frontend: JavaScript (React)  
+  - Databases: PostgreSQL, MongoDB, Redis/Cloud Storage  
+  - AI/ML: For pest and disease detection from images  
+  - APIs: Weather updates, market price feeds  
+
+- **Methodology**  
+  1. Farmers use the **mobile app or USSD service** to raise queries.  
+  2. Requests go through an **API Gateway** for routing and authentication.  
+  3. The request is sent to the right **backend service** (crop advisory, pest detection, weather/soil, market monitoring).  
+  4. Each service connects to its own **database** for storing and retrieving information.  
+  5. The processed result is sent 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+
+### Feasibility
+The system is realistic since it uses already available technologies, cloud platforms, and APIs.  
+It requires moderate infrastructure and can be scaled as needed.
+
+---
+
+### Challenges
+- Poor internet connectivity in rural regions.  
+- Farmers not fully comfortable with smartphone apps.  
+- High accuracy needed for AI-based pest detection.  
+
+---
+
+### Solutions
+- **USSD support** for non-smartphone users.  
+- **Multilingual simple UI** for ease of use.  
+- **Collaboration with agricultural research institutions** for reliable datasets.  
+
+---
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+
+### Impact on Farmers
+Farmers gain quick access to reliable crop advice and market updates.  
+
+### Social Benefits
+Builds confidence among farmers by giving them direct access to information, reducing dependence on intermediaries.  
+
+### Economic Benefits
+- Higher crop yields due to better planning.  
+- Better income by selling at favorable times and markets.  
+
+### Environmental Benefits
+- Reduced overuse of pesticides and fertilizers.  
+- Prevents large-scale crop loss through early disease detection.  
+## flowchart
+<img width="1123" height="347" alt="smart_crop_advisory_flowchart_clear" src="https://github.com/user-attachments/assets/e84f1f4d-94b6-472a-be6d-686bee202d36" />
+
+---
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+- [NABARD Annual Report 2022](https://www.nabard.org/)  
+- [Indian Agricultural Research Institute (ICAR)](https://www.icar.org.in/)  
+- [FAO – ICT in Agriculture](https://www.fao.org/ict4ag/en/)  
+- [Government of India – Agri-Tech Initiatives](https://agricoop.gov.in/)  
