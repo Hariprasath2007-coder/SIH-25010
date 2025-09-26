@@ -43,11 +43,7 @@ Agriculture, FoodTech & Rural Development
 ## Proposed Solution
 The proposed solution is a **Smart Crop Advisory System** that helps farmers make better decisions using digital tools.  
 It brings together crop advisory, soil and weather analysis, pest detection, and market insights into one platform.
-
-- Provides **personalized crop guidance** using soil data and weather updates.  
-- Helps address common issues faced by farmers such as unpredictable weather, pest attacks, and unstable market prices.  
-- **Unique feature**: combines AI-driven pest detection with multilingual support, making it farmer-friendly and easy to use.  
-- Ensures that even rural farmers with limited digital literacy can benefit from the service via mobile apps and USSD.  
+  
 
 ---
 
@@ -114,4 +110,4 @@ Builds confidence among farmers by giving them direct access to information, red
 - [NABARD Annual Report 2022](https://www.nabard.org/)  
 - [Indian Agricultural Research Institute (ICAR)](https://www.icar.org.in/)  
 - [FAO – ICT in Agriculture](https://www.fao.org/ict4ag/en/)  
-- [Government of India – Agri-Tech Initiatives](https://agricoop.gov.in/)  
+
