@@ -105,7 +105,8 @@ Builds confidence among farmers by giving them direct access to information, red
 - Reduced overuse of pesticides and fertilizers.  
 - Prevents large-scale crop loss through early disease detection.  
 ## flowchart
-<img width="1123" height="347" alt="smart_crop_advisory_flowchart_clear" src="https://github.com/user-attachments/assets/e84f1f4d-94b6-472a-be6d-686bee202d36" />
+<img width="1475" height="867" alt="Screenshot 2025-09-26 124435" src="https://github.com/user-attachments/assets/e9501b1e-3a94-48b1-a151-047bb738bd58" />
+
 
 ---
 
